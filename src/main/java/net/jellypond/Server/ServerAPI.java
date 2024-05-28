@@ -1,4 +1,4 @@
-package net.jellypond;
+package net.jellypond.Server;
 
 import org.bson.Document;
 import org.jetbrains.annotations.NotNull;
